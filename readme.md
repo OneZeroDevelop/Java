@@ -1,9 +1,5 @@
 # Repo about understanding java
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project about learn and understanding classes, interfaces, modules e.t.c in java
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+## i've use eclipse IDE
